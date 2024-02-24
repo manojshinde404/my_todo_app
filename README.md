@@ -42,9 +42,11 @@ Frontend Setup
     3. Run the Application:
       npm run dev
 
-    
+[![Java](https://img.shields.io/badge/Java-17-red)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.1-green)](https://spring.io/projects/spring-boot)
 [![React.js](https://img.shields.io/badge/React.js-17.0.2-blue)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-2.7.1-orange)](https://vitejs.dev/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)](https://www.mysql.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-blueviolet)](https://getbootstrap.com/)
 
     
